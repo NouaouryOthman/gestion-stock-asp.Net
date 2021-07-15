@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\ASP\Controle\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\ASP\Controle\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\ASP\Controle\Entity\bin\Debug\Entity.dll.config
+C:\Users\lenovo\Desktop\ASP\Controle\Entity\bin\Debug\Entity.dll
+C:\Users\lenovo\Desktop\ASP\Controle\Entity\bin\Debug\Entity.pdb
+C:\Users\lenovo\Desktop\ASP\Controle\Entity\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\ASP\Controle\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\ASP\Controle\Entity\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\ASP\Controle\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\ASP\Controle\Entity\obj\Debug\Entity.csproj.CopyComplete
+C:\Users\lenovo\Desktop\ASP\Controle\Entity\obj\Debug\Entity.dll
+C:\Users\lenovo\Desktop\ASP\Controle\Entity\obj\Debug\Entity.pdb
